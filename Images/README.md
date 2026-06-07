@@ -1,13 +1,7 @@
-## Project Screenshots
+![Dashboard](dashboard_screenshot.png)
 
-### Dashboard
-![](./Images/dashboard_screenshot.png)
+![Hardware Setup](hardware_setup.jpg)
 
-### Hardware Setup
-![](./Images/hardware_setup.jpg)
+![System Architecture](system_architecture.png)
 
-### System Architecture
-![](./Images/system_architecture.png)
-
-### Working Flow
-![](./Images/working_flow.png)
+![Working Flow](working_flow.png)
