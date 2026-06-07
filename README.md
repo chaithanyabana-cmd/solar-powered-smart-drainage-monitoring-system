@@ -41,11 +41,14 @@ The ESP32 continuously monitors drainage conditions and uploads sensor data to F
 - Circuit diagrams
 - Hardware setup images
 
+## Team Members
+- Bana Chaithanya Lakshmi
+- Allenki Gayathri
+- Malluri Sathya
+- Vaishnavi
+
 ## Future Enhancements
 - Mobile application integration
 - SMS and email alert notifications
 - Multi-node drainage monitoring
 - AI-assisted flood prediction
-
-## Author
-Bana Chaithanya Lakshmi
