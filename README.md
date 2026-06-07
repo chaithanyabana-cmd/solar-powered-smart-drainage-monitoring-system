@@ -52,7 +52,7 @@ The ESP32 continuously monitors drainage conditions and uploads sensor data to F
 - SMS and email alert notifications
 - Multi-node drainage monitoring
 - AI-assisted flood prediction
-  ## Repository Structure
+## Repository Structure
 
 ```text
 Code/
