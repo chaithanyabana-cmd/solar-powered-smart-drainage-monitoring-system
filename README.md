@@ -44,8 +44,7 @@ The ESP32 continuously monitors drainage conditions and uploads sensor data to F
 ## Team Members
 - Bana Chaithanya Lakshmi
 - Allenki Gayathri
-- Malluri Sathya
-- Vaishnavi
+- Malluri Sathya Vaishnavi
 
 ## Future Enhancements
 - Mobile application integration
