@@ -1,2 +1,51 @@
-# solar-powered-smart-drainage-monitoring-system
-IoT-based smart drainage monitoring system using ESP32, Firebase, Weather API, and a real-time dashboard.
+# Solar Powered Smart Drainage Monitoring System
+
+## Overview
+The Solar Powered Smart Drainage Monitoring System is an IoT-based solution developed to monitor drainage conditions and reduce overflow risks. The system utilizes an ESP32 microcontroller, Firebase cloud services, and a web-based dashboard to provide real-time monitoring and alert generation.
+
+## Features
+- Real-time water level monitoring
+- Drain blockage detection
+- Rainfall monitoring
+- Flood warning generation
+- Firebase cloud integration
+- Interactive web dashboard
+- Weather API integration
+- Location-based monitoring using maps
+- Solar-powered operation
+
+## Technologies Used
+- ESP32
+- Arduino IDE
+- Firebase Realtime Database
+- HTML
+- CSS
+- JavaScript
+- OpenWeatherMap API
+- Leaflet Maps
+- Wi-Fi Communication
+
+## Working Principle
+The ESP32 continuously monitors drainage conditions and uploads sensor data to Firebase. The web dashboard retrieves the latest data from Firebase and displays water level, blockage status, rainfall intensity, weather information, and alert notifications in real time. Threshold-based logic is used to identify potential flood-risk conditions and generate warnings.
+
+## Repository Structure
+
+### Code
+- drainage_monitoring_system.ino
+
+### Dashboard
+- index.html
+
+### Images
+- Project screenshots
+- Circuit diagrams
+- Hardware setup images
+
+## Future Enhancements
+- Mobile application integration
+- SMS and email alert notifications
+- Multi-node drainage monitoring
+- AI-assisted flood prediction
+
+## Author
+Bana Chaithanya Lakshmi
