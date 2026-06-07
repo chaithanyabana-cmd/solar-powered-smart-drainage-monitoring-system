@@ -56,7 +56,7 @@ Images/
 ├── hardware_setup.jpg
 ├── system_architecture.png
 └── working_flow.png
-
+/
 ## Team Members
 - Bana Chaithanya Lakshmi
 - Allenki Gayathri
