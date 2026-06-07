@@ -42,7 +42,17 @@ The ESP32 continuously monitors drainage conditions and uploads sensor data to F
 ### Working Flow
 ![Working Flow](Images/working_flow.png)
 
-## Repository Structure
+## Team Members
+- Bana Chaithanya Lakshmi
+- Allenki Gayathri
+- Malluri Sathya Vaishnavi
+
+## Future Enhancements
+- Mobile application integration
+- SMS and email alert notifications
+- Multi-node drainage monitoring
+- AI-assisted flood prediction
+  ## Repository Structure
 
 ```text
 Code/
@@ -56,14 +66,3 @@ Images/
 ├── hardware_setup.jpg
 ├── system_architecture.png
 └── working_flow.png
-/
-## Team Members
-- Bana Chaithanya Lakshmi
-- Allenki Gayathri
-- Malluri Sathya Vaishnavi
-
-## Future Enhancements
-- Mobile application integration
-- SMS and email alert notifications
-- Multi-node drainage monitoring
-- AI-assisted flood prediction
